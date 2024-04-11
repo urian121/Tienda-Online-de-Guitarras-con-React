@@ -776,7 +776,7 @@ button:not(:disabled),
     ),
     url("/img/header.png");
   background-position: 50%;
-  background-size: inherit;
+  background-size: cover;
   position: relative;
   height: 350px;
 }
