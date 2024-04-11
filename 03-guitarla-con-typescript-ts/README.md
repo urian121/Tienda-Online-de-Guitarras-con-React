@@ -1,6 +1,6 @@
 # Tienda Online de Guitarras con React
 
-#### Proyecto con react
+#### Llevando el mismo proyecto a TypeScript
 
 ### Expresiones de Gratitud 🎁
 

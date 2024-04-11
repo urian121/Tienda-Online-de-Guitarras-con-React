@@ -1,8 +1,12 @@
-# React + Vite
+# Tienda Online de Guitarras con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Agregando al proyecto los custom hooks para optimizar el codigo
 
-Currently, two official plugins are available:
+### Expresiones de Gratitud 🎁
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Comenta a otros sobre este proyecto 📢
+    Invita una cerveza 🍺 o un café ☕
+    Paypal iamdeveloper86@gmail.com
+    Da las gracias públicamente 🤓.
+
+## No olvides SUSCRIBIRTE 👍
